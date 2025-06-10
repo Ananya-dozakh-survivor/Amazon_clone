@@ -7,7 +7,7 @@ This is a clone of the Amazon homepage built using only HTML and CSS.
 - Clean and simple structure
 
 ## Live Demo
-https://Ananya-dozakh-survivor.github.io/Amazon_clone
+https://Ananya-dozakh-survivor.github.io/Amazon_clone_project
 
 ## Github repository
-https://github.com/Ananya-dozakh-survivor/Amazon_clone
+https://github.com/Ananya-dozakh-survivor/Amazon_clone_project
